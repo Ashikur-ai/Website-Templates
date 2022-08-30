@@ -1,0 +1,22 @@
+.container{
+    margin-bottom: 80px;
+}
+
+.buy-now-button{
+    background-color:black;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
+
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightblue;
+
+}
+
+.card img{
+    margin:20px 80px 10px 80px;
+}

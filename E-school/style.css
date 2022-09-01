@@ -1,0 +1,77 @@
+.container{
+    margin-bottom: 50px;
+}
+.header{
+   
+    background-color: #F0FFF0;
+}
+
+.footer{
+   
+    background-color:  #282531;
+    color: white;
+}
+
+.logo{
+    width: 198.07px;
+    height: 59px;
+    left: 212px;
+    top: 30px;
+}
+
+.buy-now-button{
+    border: none;
+    color: white;
+    background-color: #21B573;
+    border-radius: 25px;
+    padding: 9px 25px;
+}
+
+.button{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 12px 28px;
+    gap: 30px;
+    
+}
+a{
+    color: black;
+}
+
+.title{
+    font: Poppins;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 70px;
+}
+
+.title-low{
+    font: Poppins;
+    font-weight: 700;
+    font-size: 48px;
+    color:#21B573;
+    line-height: 70px;
+
+}
+
+.card img{
+    padding:20px 80px 10px 80px;
+}
+
+.card{
+    border: none;
+    border-radius: 10px;
+}
+
+.cool-card{
+    box-shadow: 5px 5px 10px lightblue;
+}
+
+.card-online{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightblue;
+
+}
+
